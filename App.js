@@ -23,7 +23,7 @@ import{s}from "./App.style";
     }
     Linking.openURL(url);
   }
-  123
+  12346789
  
   return (
     <SafeAreaProvider>
