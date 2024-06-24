@@ -32,6 +32,8 @@ import{s}from "./App.style";
         <Profilecard 
           onPressSocialMediaIcon={goToSocialMedia} 
           firstName="Dinakar"
+
+          
           lastName="Dommata"
           age={23}
         />
